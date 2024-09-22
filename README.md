@@ -15,7 +15,7 @@ Source: Medium
 ## What is a Relay Attack?
 A relay attack is a type of security attack where an attacker intercepts and relays communication between a legitimate user and a target system. This allows the attacker to gain unauthorized access by pretending to be the legitimate user.
 
-![Relay Attack](Images/Relay Attack.PNG)
+![Relay Attack](Images/RelayAttack.PNG)
 
 ## Our Objective
 The primary goal of this project is to conduct a detailed analysis of NFC security and to implement a relay attack on an NFC-based authentication system. We aim to demonstrate the potential risks associated with NFC technology and raise awareness about its vulnerabilities.
@@ -28,7 +28,7 @@ The primary goal of this project is to conduct a detailed analysis of NFC securi
 ## Implementation Details
 We implemented the relay attack using two devices acting as a proxy for the NFC reader and tag.
 
-![How it works](Images/how it works.PNG)
+![How it works](Images/howitworks.PNG)
 
 As shown above, the attacker uses two devices: a proxy tag and a proxy reader. The goal is to intercept and relay the communication between a legitimate NFC reader and a valid NFC tag (like a card or smartphone).
 
