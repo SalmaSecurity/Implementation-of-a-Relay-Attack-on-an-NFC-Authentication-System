@@ -54,4 +54,7 @@ The following steps will be taken:
 
 3. **Execution of the Attack**: Executing the relay attack to gain unauthorized access to the target NFC authentication system.
 
+## Conclusion
+Thank you for exploring this project on NFC relay attacks! Your feedback and contributions are welcome.
 
+For implementation details, please refer to the code files included in this repository.
